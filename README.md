@@ -11,7 +11,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/brunotm/rexon/value/strftime"
+	"github.com/brunotm/strftime"
 )
 
 func main() {
