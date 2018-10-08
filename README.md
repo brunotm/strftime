@@ -1,4 +1,6 @@
 # Go strftime
+[![Build Status](https://travis-ci.org/brunotm/strftime.svg?branch=master)](https://travis-ci.org/brunotm/strftime) [![Go Report Card](https://goreportcard.com/badge/github.com/brunotm/strftime)](https://goreportcard.com/report/github.com/brunotm/strftime)
+--------------------
 Package strftime provides strftime like functionality as an alternative format for parsing date and time in Go.
 
 It doesn't follow the full specification for strftime and align with what is supported by the Go time package adding a few extensions.
